@@ -65,7 +65,7 @@ I am a full stack developer with a strong foundation in computer science fundame
 ## Current Focus
 - Advanced Data Structures & Algorithms
 - Backend scalability and architecture
-- Open-source contribution workflows (GSoC-oriented)
+- Open-source contribution workflows
 - Writing production-quality code
 
 ---
