@@ -76,3 +76,4 @@ I am a full stack developer with a strong foundation in computer science fundame
 ---
 
 *Focused on fundamentals, scalability, and building reliable software.*
+![](https://komarev.com/ghpvc/?username=nikunjkaushik20)
