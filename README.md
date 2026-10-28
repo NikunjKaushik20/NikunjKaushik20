@@ -52,4 +52,4 @@ Finalist in 10+ national hackathons.
 
 ## Reach me
 
-[LinkedIn](https://linkedin.com/in/nikunjkaushik2005) · nikunjkaushik20@gmail.com
+[LinkedIn](https://linkedin.com/in/nikunjkaushik2005) · nikunjkaushik28@gmail.com
